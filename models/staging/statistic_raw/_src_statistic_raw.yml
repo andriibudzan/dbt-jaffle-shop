@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: statistic_raw
+    tables:
+      - name: meta_data
+      - name: statistic_pageview_raw2
+      - name: statistic_pageview_raw2_copy
+      - name: statistic_pageview_raw2_temp
+      - name: statistic_visitor
+      - name: tables_counts
